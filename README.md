@@ -129,6 +129,11 @@ Example using `curl`:
 
 ## Demo
 
+<img width="804" alt="Screenshot 2024-10-31 at 1 18 04 PM" src="https://github.com/user-attachments/assets/ac26cf3c-7607-47fe-a47b-47e6caba4628">
+
+
+<br></br>
+
 <img width="1043" alt="Screenshot 2024-10-30 at 9 43 14 PM" src="https://github.com/user-attachments/assets/2488ad8b-f2a5-4741-a058-9a57188714f6">
 
 <br></br>
